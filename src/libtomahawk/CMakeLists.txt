@@ -305,6 +305,7 @@ list(APPEND libSources
     network/Servent.cpp
     network/Connection.cpp
     network/ControlConnection.cpp
+    network/QTcpSocketExtra.cpp
 
     playlist/PlaylistUpdaterInterface.cpp
     playlist/dynamic/DynamicPlaylist.cpp
